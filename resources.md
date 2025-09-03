@@ -1,25 +1,20 @@
 # Computer Software Tutorials & Learning Resources
-
-## 🚀 Getting Started
-*Resources for beginners and getting familiar with software development*
-
-### Essential Tools & Setup
-- **Git & Version Control**
-  - Blender - [Written Tutorial](https://drive.google.com/drive/folders/11oATx5qW3ZuJoyzFP0ei3oa2wuyjGSFC?usp=drive_link), [Video Tutorial](https://youtu.be/98FkRIbihyQ?si=17TvBalDiST5ocn0)
-  - [GitLab](https://gitlab.com) - Alternative to GitHub
-  - [Bitbucket](https://bitbucket.org) - Git repository hosting
+*Resources for beginners to learn all the software available on our computers*
+## 🚀 Software Development & Programming 
 
 - **Code Editors & IDEs**
-  - [Visual Studio Code](https://code.visualstudio.com) - Popular free code editor
-  - [Sublime Text](https://www.sublimetext.com) - Fast and lightweight editor
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java IDE (Community edition free)
+  - Unity - [Written Tutorial](), [Video Tutorial](https://code.visualstudio.com)
+  - Scratch - [Written Tutorial](), [Video Tutorial](https://www.sublimetext.com)
+  - Web Development - [Written Tutorial](), [Video Tutorial](https://www.jetbrains.com/idea/)
 
 - **Terminal & Command Line**
-  - [Windows Terminal](https://github.com/microsoft/terminal) - Modern Windows terminal
-  - [iTerm2](https://iterm2.com) - macOS terminal emulator
-  - [Oh My Zsh](https://ohmyz.sh) - Zsh configuration framework
+  - Python Developement - [Written Tutorial](), [Video Tutorial](https://github.com/microsoft/terminal)
+  - Adobe Dreamweaver - [Written Tutorial](), [Video Tutorial](https://iterm2.com) 
+  - Github Desktop - [Written Tutorial](), [Video Tutorial](https://ohmyz.sh) 
 
-## 💻 Programming Languages
+## 💻 3D Design, Prototyping & Fabrication/Video & Animation Production 
+
+- Blender - [Written Tutorial](https://drive.google.com/drive/folders/11oATx5qW3ZuJoyzFP0ei3oa2wuyjGSFC?usp=drive_link), [Video Tutorial](https://youtu.be/98FkRIbihyQ?si=17TvBalDiST5ocn0)
 
 ### Python
 - **Learning Platforms**
