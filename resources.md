@@ -5,7 +5,7 @@
 
 ### Essential Tools & Setup
 - **Git & Version Control**
-  - [Blender] - [Written Tutorial] (https://drive.google.com/drive/folders/11oATx5qW3ZuJoyzFP0ei3oa2wuyjGSFC?usp=drive_link)
+  - Blender - [Written Tutorial](https://drive.google.com/drive/folders/11oATx5qW3ZuJoyzFP0ei3oa2wuyjGSFC?usp=drive_link), [Video Tutorial](https://youtu.be/98FkRIbihyQ?si=17TvBalDiST5ocn0)
   - [GitLab](https://gitlab.com) - Alternative to GitHub
   - [Bitbucket](https://bitbucket.org) - Git repository hosting
 
