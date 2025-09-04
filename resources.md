@@ -1,5 +1,6 @@
 # Computer Software Tutorials & Learning Resources
 *Resources for beginners to learn all the software available on the Ubuntu Center computers*
+[Here are the tutorials for the physical work stations in the Ubuntu Center](Work_Station_Resources.md)
 ## 🚀 Software Development & Programming 
 *Programs used for creating new software, inlcuding websites, apps, and video games*
 
@@ -9,6 +10,7 @@
   - Python Developement - [Written Tutorial](https://www.w3schools.com/python/python_intro.asp), [Video Tutorial](https://youtu.be/fWjsdhR3z3c?si=nUtLT20GksRG_wxe)
   - Adobe Dreamweaver - [Written Tutorial](https://www.adobe.com/learn/dreamweaver), [Video Tutorial](https://youtu.be/p-qxxWHdfeg?si=sTlVrL7u24jeY-95) 
   - Github Desktop - [Written Tutorial](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop), [Video Tutorial](https://youtu.be/Oaj3RBIoGFc?si=EW_MWblXnMzKNLDP) 
+
 
 ## 💻 3D Design, Prototyping & Fabrication/Video & Animation Production 
 *A multi-faceted software with a vairety of capabilities from 3D modeling, Animating, Rendering, and more*
@@ -28,7 +30,7 @@
   - Adobe Character Animator - [Written Tutorial](https://www.adobe.com/learn/adobe-character-animator/web/add-physics-to-character-scene), [Video Tutorial](https://youtu.be/G9DkEIYJ2lo?si=lFYO1_5MRRPNfSij)
 
 ## 🎯 Productivity and Office Tools 
-*Apps and software for organizing your projects or for general note-taking*
+*Apps and software for organizing and plan your projects or for general note-taking*
 
   - Microsoft Powerpoint - [Written Tutorial](https://support.microsoft.com/en-us/office/create-a-presentation-in-powerpoint-422250f8-5721-4cea-92cc-202fa7b89617), [Video Tutorial](https://youtu.be/l5Ij7nUy9UQ?si=MLVez4UsEzxbcNuu)
   - Microsoft Excel - [Written Tutorial](https://youtu.be/l5Ij7nUy9UQ?si=MLVez4UsEzxbcNuu), [Video Tutorial](https://youtu.be/LgXzzu68j7M?si=UbJlIU2RNaWfo0hL)
@@ -38,12 +40,12 @@
   - Adobe Acrobat - [Written Tutorial](https://www.adobe.com/learn/acrobat), [Video Tutorial](https://youtu.be/nzRswX0YDg0?si=xDksB4ucsnMS5l1O)
 
 ## 📚 Audio & Music Production 
-*Use to create and edit sounds for sound effects or music*
+*Use to create and edit sound/ sound effects or entire musical tracks*
 
    - Adobe Audition - [Written Tutorial](https://www.adobe.com/learn/audition), [Video Tutorial](https://www.youtube.com/watch?v=qjObRLYZMW8)
 
 ## 📝 Visual Art & Media 
-*Use this section to add your personal notes, tips, and observations*
+*Video editing software to perfect any recordings or podcasts*
 
    - Adobe Premiere Pro - [Written Tutorial](https://www.adobe.com/learn/premiere-pro), [Video Tutorial](https://youtu.be/yO52Tx60Keg?si=EqjKqsF-96b70v9y)
 ---
