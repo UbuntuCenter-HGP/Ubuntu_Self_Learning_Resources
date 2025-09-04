@@ -1,14 +1,11 @@
 # Computer Software Tutorials & Learning Resources
-*Resources for beginners to learn all the software available on our computers*
+*Resources for beginners to learn all the software available on the Ubuntu Center computers*
 ## 🚀 Software Development & Programming 
-*Use this section to add your personal notes, tips, and observations*
+*Programs used for creating new software, inlcuding websites, apps, and video games*
 
-- **Code Editors & IDEs**
-  - Unity - [Written Tutorial](), [Video Tutorial](https://youtu.be/XtQMytORBmM?si=rY9-zQX928Wls8fI)
-  - Scratch - [Written Tutorial](), [Video Tutorial](https://www.sublimetext.com)
+  - Unity - [Written Tutorial](https://learn.unity.com/pathway/unity-essentials), [Video Tutorial](https://youtu.be/XtQMytORBmM?si=rY9-zQX928Wls8fI)
+  - Scratch - [Written Tutorial](https://www.create-learn.us/blog/how-do-i-learn-scratch-coding-with-scratch-for-kids-explained/), [Video Tutorial](https://youtu.be/D-nW4jvzRr8?si=szl2S9JwPGG9zXLZ)
   - Web Development - [Written Tutorial](https://www.w3schools.com/html/html_basic.asp), [Video Tutorial](https://youtu.be/FQdaUv95mR8?si=bs4en_CilFCxfEiC)
-
-- **Terminal & Command Line**
   - Python Developement - [Written Tutorial](https://www.w3schools.com/python/python_intro.asp), [Video Tutorial](https://youtu.be/fWjsdhR3z3c?si=nUtLT20GksRG_wxe)
   - Adobe Dreamweaver - [Written Tutorial](https://www.adobe.com/learn/dreamweaver), [Video Tutorial](https://youtu.be/p-qxxWHdfeg?si=sTlVrL7u24jeY-95) 
   - Github Desktop - [Written Tutorial](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop), [Video Tutorial](https://youtu.be/Oaj3RBIoGFc?si=EW_MWblXnMzKNLDP) 
