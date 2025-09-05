@@ -1,6 +1,6 @@
 # Computer Software Tutorials & Learning Resources
 *Resources for beginners to learn all the software available on the Ubuntu Center computers*
-[Here are the tutorials for the physical work stations in the Ubuntu Center](Work_Station_Resources.md)
+[Work Station & equipment Tutorials](Work_Station_Resources.md)
 ## 🚀 Software Development & Programming 
 *Programs used for creating new software, inlcuding websites, apps, and video games*
 

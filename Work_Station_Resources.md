@@ -1,7 +1,7 @@
 
 # Work Station & Equipment Learning Resources
 *Resources for beginners to learn how to use all the physical tech tools and their accompanying softwares available in the Ubuntu Center*
-[Here are the tutorials for all the software on the computers in the Ubuntu Center](resources.md)
+[Computer Software Tutorials](resources.md)
 ## 🚀 3D Printing & Ankermake Studio 
 *Print 3D models of objects that you've designed in other programs out of plastic filaments*
 
